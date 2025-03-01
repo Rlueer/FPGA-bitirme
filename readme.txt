@@ -64,8 +64,7 @@ This project integrates an **FPGA (DE0-CV) and Arduino Uno** to create a real-ti
 This project is licensed under the **MIT License**.
 
 ## Contributors
-- **Your Name**
-- **Team Members (if applicable)**
+- **Emre Yavuz**
 
 ---
 
