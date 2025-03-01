@@ -1,0 +1,1 @@
+i2ctemp is final arduino code to run with arduino uno
